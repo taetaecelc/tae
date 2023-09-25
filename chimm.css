@@ -1,0 +1,11 @@
+body {
+    background-color: rgb(216, 205, 226);
+    text-align: center;
+}
+h1{
+    color: rgb(72, 7, 133);
+}
+h2{
+    color: rgb(226, 49, 49);
+}
+strong{ color: rgb(166, 70, 255);}
