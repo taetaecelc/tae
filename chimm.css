@@ -1,11 +1,20 @@
-body {
-    background-color: rgb(216, 205, 226);
-    text-align: center;
-}
+body{ background-color: rgb(237, 226, 248);
+text-align: center;}
 h1{
-    color: rgb(72, 7, 133);
+    color: rgb(161, 126, 194);
 }
 h2{
-    color: rgb(226, 49, 49);
+    color: rgb(238, 163, 213);
 }
-strong{ color: rgb(166, 70, 255);}
+ strong{
+    color: rgba(137, 95, 177, 0.767);
+ }
+h1{
+    font-style: oblique;
+}
+h2 {
+    font-style: oblique;
+}
+p{
+   font-style: inherit;
+}
